@@ -1,0 +1,2 @@
+# PR2_25_REP_HANSA
+Plataforma académica desarrollada con React, Node.js y MongoDB, orientada a la organización jerárquica y centralizada de archivos educativos por universidad, facultad, carrera y materia. El sistema permite gestionar repositorios personales y grupales, compartir contenido entre estudiantes e instituciones, y aplicar criterios avanzados de clasificación con enfoque en seguridad (GDPR), escalabilidad y usabilidad, utilizando la línea gráfica institucional de UNIVALLE.
